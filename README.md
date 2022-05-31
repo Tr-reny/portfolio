@@ -6,4 +6,4 @@ website template: an awesome fullscreen hero banner, about and qualification sec
 portfolio, testimonial and contact section. Epitome is also mobile and retina ready. 
 It will look great on any devices from mobile to desktop and on any screen resolutions.
 
-==================================================================================================
+===============================================================================================
